@@ -14,6 +14,8 @@ return {
     ["Big"] = "rbxassetid://5332005053",
     ["Vine"] = "rbxassetid://5332680810",
     ["UwU"] = "rbxassetid://8679659744",
+    ["8-Bit"] = "rbxassetid://6351509719",
+    ["Barrier Attack"] = "rbxassetid://128620538872461",
     ["Bruh"] = "rbxassetid://4578740568",
     ["Skeet"] = "rbxassetid://5633695679",
     ["Fatality"] = "rbxassetid://6534947869",
